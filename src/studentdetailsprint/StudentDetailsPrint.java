@@ -39,6 +39,7 @@ public class StudentDetailsPrint {
          System.out.println(list[i].getName() + " "+list[i].getAge());
         //push operation
            System.out.println("pull operation");
+           //fetch +merge
         
        }
        
