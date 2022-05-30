@@ -17,6 +17,7 @@ public class Student
     private int semester;
     private boolean partTime;
     private String coursecode;
+    private boolean coop;
   
     /**
      * @return the name
@@ -58,6 +59,20 @@ public class Student
      */
     public void setPartTime(boolean partTime) {
         this.partTime = partTime;
+    }
+
+    /**
+     * @return the coop
+     */
+    public boolean isCoop() {
+        return coop;
+    }
+
+    /**
+     * @param coop the coop to set
+     */
+    public void setCoop(boolean coop) {
+        this.coop = coop;
     }
 
     /**
