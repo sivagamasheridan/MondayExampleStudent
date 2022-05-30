@@ -16,7 +16,7 @@ public class StudentDetailsPrint {
      * 1. Intialize Github - done
      2. .gitconfig file - github credentials
      3. .gitignore file - empty file -
-     4. Commit code to Local 
+     4. Commit code to Local repository
       to Push remote rep
      
      */
